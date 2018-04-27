@@ -1,23 +1,55 @@
-intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Alcuni Side-project degli anni che furono"
 projects:
   - project:
-    title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    title: yEM
+    link: "http://yem-evolution.it"
+    tagline: "yEM, software per il calcolo di campi elettromagnetici in accordo alla CEI 211.10"
   - project:
-    title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+    title: yELF
+    link: "https://github.com/LMY/yELF"
+    tagline: "Analyze and graph Field Measurement Sensor and Current datas (SRB, ELF, DPCM 29/05/2008)"
   - project:
-    title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    title: jsPratiche
+    link: "https://github.com/LMY/jsPratiche"
+    tagline: "node.js, express, angular1, mysql/mssql. Simple js app to keep track of incoming docs"
   - project:
-    title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    title: yParereSRB
+    link: "https://github.com/LMY/yParereSRB"
+    tagline: "An UI that uses a .docx template to create final .docx using yEM results"
   - project:
-    title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    title: Rubik cube state representation study
+    link: "https://github.com/LMY/Rubbik"
+    tagline: "Rubik cube state representation study"
+  - project:
+    title: UNFHibernate
+    link: "https://github.com/LMY/UNFHibernate"
+    tagline: "C#/Nhibernate management software for a sport team"
+  - project:
+    title: yCSV
+    link: "https://github.com/LMY/yCSV"
+    tagline: "(java) csv swiss knife utility"
+  - project:
+    title: yReady
+    link: "https://github.com/LMY/yReady"
+    tagline: "java/Jsoup auction sniper, just to play around with Jsoup"
+  - project:
+    title: jCiup
+    link: "https://github.com/LMY/jCiup2"
+    tagline: "file transfer/sharing utility. Back in 2007 we didn't have *social networks*..."
+  - project:
+    title: sharpTrade
+    link: "https://github.com/LMY/sharpTrade"
+    tagline: "C#, trading, 2010"
+  - project:
+    title: glWinTerr
+    link: "https://github.com/LMY/glWinTerr"
+    tagline: "visualC++/openGL grid/terrain (+Bacteria)"
+  - project:
+    title: yuPong
+    link: "https://github.com/LMY/yuPong"
+    tagline: "openGL (openTK) / C# mortal pong clone. Originally a study on gamestates, then on collision detection"
+  - project:
+    title: ChibiWalker
+    link: "https://github.com/LMY/ChibiWalker"
+    tagline: "android sample sprite dungeon walker"	
+

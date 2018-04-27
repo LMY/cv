@@ -1,28 +1,56 @@
 - experience:
-  role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  role: Sviluppatore
+  time: Maggio 2017 - Oggi
+  company: Rina Consulting – Polaris
+  details: "Analista-Programmatore, missione presso Automotive Lighting – Tolmezzo&#58; sviluppo di un applicativo Windows per la parametrizzazione di Rear Lamp."
 - experience:
-  role: Senior Software Engineer
-  time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Tecnico
+  time: Da Febbraio 2014 a Maggio 2017	
+  company: Agenzia Regionale per la protezione dell'Ambiente del Friuli Venezia Giulia
+  details: "Tecnico addetto alla valutazione degli effetti dell’installazione di nuove Stazioni Radio Base sul territorio regionale e all’esecuzione di misure di campi elettromagnetici."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Analista-Programmatore
+  time: Da Gennaio 2013 a Febbraio 2014
+  company: OverIT SRL - Udine
+  details: "Società che si occupa dello sviluppo di software GIS e gestionale."
+- experience:
+  role: Insegnante di Informatica
+  time: Da Ottobre 2012 a Giugno 2013	
+  company: Istituto Aeronautico "Umberto Nobile" - Fagagna (UD)
+  details: "Insegnante di Informatica nelle classi della Scuola Superiore."
+- experience:
+  role: Insegnante di Fisica
+  time: Educandato Statale "Collegio Uccellis" - Udine	
+  company: Da Marzo 2012 a Giugno 2012
+  details: "Insegnante di Fisica nelle classi terze, quarte e quinte della Scuola Superiore."
+- experience:
+  role:
+  time: Da Marzo 2010 a Giugno 2012
+  company: Agenzia Regionale per la protezione dell'Ambiente del Friuli Venezia Giulia - Progetto Europeo "iMONITRAF!"
+  details: "Effettuazione di misurazioni fonometriche per la caratterizzazione delle sorgenti viarie in ambito transfrontaliero.<br/>
+    Esecuzione di simulazioni di propagazione di inquinamento acustico per il corridoio di Tarvisio.<br/>
+    Stesura delle relazioni previste dal progetto."
+- experience:
+  role: R&D
+  time: Da Settembre ad Ottobre 2009
+  company: ISOMORPH SRL – Udine
+  details: "Partecipazione al progetto e al design dello specchio lineare.<br/>
+    Progettazione e realizzazione del sistema software basato su microcontrollore PIC dello specchio lineare."
+- experience:
+  role: Insegnante di Matematica, Fisica, Informatica
+  time: Da Febbraio a Settembre 2009
+  company: Associazione Culturale Acli "Circolo Cittadino" – Udine
+  details: "Insegnante di Informatica, Fisica e Matematica"
+- experience:
+  role: Analista-Programmatore
+  time: Da Giugno 2007 ad Aprile 2008
+  company: ISOMORPH SRL – Udine
+  details: "Sviluppatore di Software per il calcolo scientifico, in particolare visione artificiale, pattern-recognition, ricostruzione tridimensionale e consulente per lo studio e l’uso del microprocessore CELL (IBM/Toshiba)"
+- experience:
+  role: Insegnante di Nuoto
+  time: Da Giugno 2001 a Giugno 2004
+  company: Piscina Comunale di Cividale del Friuli (UD) 
+  details: "Istruttore di nuoto (lezioni individuali e di gruppo per adulti, adolescenti e bambini).<br/>
+Abilitazioni collegate			Brevetto di Assistente Bagnanti (MIP) nell’anno 2001.<br/>
+Brevetto di Istruttore di nuoto 1° livello nell’anno 2002.<br/>
+Brevetto di Istruttore di nuoto 2° livello nell’anno 2004.<br/>"

@@ -1,15 +1,44 @@
-intro: "You can list your publications in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+intro: "Lista pubblicazioni e interventi"
 publications:
   - paper:
-    title: The Art of Computer Programming
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+    title: yEM - Nuovo software per l’analisi dell’impatto elettromagnetico prodotto dalle stazioni radiobase in Friuli Venezia Giulia
+    authors: Salvagni M., Poles N., Moretuzzo M., Bampo A.
+    conference: Atti del 6° Convegno Nazionale Agenti fisici, Giugno 2016
   - paper:
-    title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    title: Proposta di procedura di verifica degli impianti di telefonia mobile alla luce della legge 221/2012
+    authors: Autori Vari
+    conference: Atti del 6° Convegno Nazionale Agenti fisici, Giugno 2016
   - paper:
-    title: A syntax directed compiler for Algol 60
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+    title: Analisi dei dati storici delle SRB e delle misure RF in tre città della regione Friuli Venezia Giulia (Pordenone, Udine, Trieste)
+    authors: Autori Vari
+    conference: ISPRA Ambiente, Roma, Dicembre 2015
+  - paper:
+    title: Annoyance&#58; stato dell'arte, Applicazioni iMONITRAF!, Schede di Sintesi
+    authors: E. Carnuccio, F. Berlier, C. Tibone, M. Salvagni, A. Merlino
+    conference: iMONITRAF! Palmanova, Giugno 2012
+  - paper:
+    title: Progetto Europeo iMONITRAF! ETC Spazio Alpino&#58; Campagne di Misura
+    authors: Autori Vari
+    conference: iMONITRAF!, Palmanova, Giugno 2012
+  - paper:
+    title: European Project iMONITRAF!&#58; Pilot Study - Noise Modelling in the Tarvisio Corridor
+    authors: A. Merlino, V. Cipriani, L. Piani, M. Salvagni
+    conference: iMONITRAF!, Palmanova, Giugno 2012
+  - paper:
+    title: Confronto dei risultati ottenuti applicando vari algoritmi per il calcolo del rumore stradale in prossimità della sorgente
+    authors: M. Salvagni, A. Merlino, V. Cipriani
+    conference: Atti del 39o Convegno Nazionale dell'Associazione Italiana di Acustica, Giugno 2012
+  - paper:
+    title: Monitoraggio del rumore da traffico transfontaliero ed effetti correlati&#58; l'esperienza di ARPA nel progetto iMONITRAF!
+    authors: F. Berlier, C. Tibone, E. Carnuccio, D. Crea, C. Tartin, M. Cappio Borlino, M. Salvagni, A. Merlino, V. Cipriani, J. Fogola, S. Masera
+    conference: 5° Convegno Agenti Fisici - Novara, Maggio 2012
+  - paper:
+    title: The Linear Mirror
+    authors: H. Grassmann, M. Salvagni, A. Prest
+    conference: Isomorph srl e Dipartimento di Fisica, Università degli Studi di Udine, 4 Aprile 2008
+  - paper:
+    title: Linux per il calcolo ad alte prestazioni su Playstation 3
+    conference: Presentato al "Linux day" 2007, Udine, 27 Ottobre 2007
+  - paper:
+    title: Linear Barcode Reading on the CELL Microprocessor
+    conference: Presentato presso il Dipartimento di Fisica dell’Università degli Studi di Udine, 11 Giugno 2007
